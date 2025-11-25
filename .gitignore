@@ -1,0 +1,23 @@
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+
+
+# --- pytest ---
+.cache/
+.pytest_cache/
+
+
+
+# --- Environments / Secrets ---
+.env
+*.env
+.env.*
+
